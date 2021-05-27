@@ -1,0 +1,22 @@
+public class RelationalOperator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// Equal To Operator
+		System.out.println(10 == 20); // false
+		System.out.println(10 == 10); // true
+		
+		
+		// Not Equal To Operator
+		System.out.println(10 != 20);  //true
+		System.out.println(10 != 10); //false
+		
+		// Greater than or smaller than
+		System.out.println(1 < 0); //true
+		System.out.println(10 < 0); //false
+		
+		
+	}
+
+}
